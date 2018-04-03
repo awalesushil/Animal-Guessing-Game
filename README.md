@@ -8,4 +8,4 @@ First, the Animal Guessing Game agent aks the player to think of an animal. Then
 
 If the agent got the answer correct, it wins. Otherwise, the agent asks the player what it was thinking of and also asks what question should the agent had asked to make the correct guess. In other words, the agent learns from the player so that it can make a better guess next time.
 
-<a href="https://www.sushilawale.com/2018/02/24/animal-guessing-game-toy-ai-project/">Read more</a>
+<a href="https://www.sushilawale.com/animal-guessing-game-kotlin.html">Read more</a>
